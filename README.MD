@@ -14,6 +14,7 @@ Este projeto tem como objetivo analisar o comportamento de vendas do e-commerce 
 
 ## 📁 Estrutura do Projeto
 
+```
 olist_projeto/
 ├── notebooks/
 │ ├── 01_analise_inicial_olist.ipynb
@@ -25,8 +26,10 @@ olist_projeto/
 │ ├── carregar_dados.py
 │ └── pycache/
 └── README.md
+```
 
 ---
+
 
 ## 🧰 Tecnologias Utilizadas
 
