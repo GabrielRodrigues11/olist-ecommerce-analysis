@@ -84,7 +84,7 @@ Abaixo os principais gráficos gerados (todos estão salvos na pasta `/outputs`)
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/GabrielRodrigues11/olist_projeto.git
+git clone https://github.com/GabrielRodrigues11/olist-ecommerce-analysis.git
 ```
 
 ## 💼 Autor
