@@ -85,3 +85,9 @@ Abaixo os principais gráficos gerados (todos estão salvos na pasta `/outputs`)
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/olist_projeto.git
+
+
+## 💼 Autor
+
+**Gabriel Rodrigues**  
+Analista de TI em transição para a área de dados. Apaixonado por tecnologia e por transformar dados em soluções visuais e práticas.
