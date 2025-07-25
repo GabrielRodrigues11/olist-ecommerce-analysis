@@ -73,7 +73,7 @@ Abaixo os principais gráficos gerados (todos estão salvos na pasta `/outputs`)
 
 ## 📖 Fonte dos Dados
 
-- Dataset: [Brazilian E-Commerce Public Dataset by Olist - Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- Dataset: [Brazilian E-Commerce Public Dataset by Olist - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
