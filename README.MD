@@ -71,6 +71,12 @@ Abaixo os principais gráficos gerados (todos estão salvos na pasta `/outputs`)
 
 ---
 
+## 📖 Fonte dos Dados
+
+- Dataset: [Brazilian E-Commerce Public Dataset by Olist - Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+
+---
+
 ## 📌 Principais Insights
 
 - A maioria dos pagamentos são feitos com **cartão de crédito**.
