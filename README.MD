@@ -85,7 +85,7 @@ Abaixo os principais gráficos gerados (todos estão salvos na pasta `/outputs`)
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/olist_projeto.git
-
+```
 
 ## 💼 Autor
 
